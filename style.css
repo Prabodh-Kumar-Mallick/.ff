@@ -1,0 +1,45 @@
+
+body{
+    background-color: lightgray;
+    padding-top: 40px;
+}
+input{
+    height: 35px;
+    width: 300px;
+    border-radius: 10px;
+    border: 1px solid rgb(116, 111, 111);
+    padding-top: 10px;
+}
+button{
+    height: 40px;
+    width: 310px;
+    background-color: #0866ff;
+    color: white;
+    font-size: 23px;
+    border-radius: 10px;
+border: 1px black;
+}
+.card{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    background-color: white;
+    height:340px;
+    width:400px;
+    border-radius: 12px;
+}
+
+
+#but{   height: 40px;
+    width: 230px;
+    background-color: #42b72a;
+    color: white;
+    font-size: 20px;
+    border-radius: 5px;
+border: 1px black;
+
+}
